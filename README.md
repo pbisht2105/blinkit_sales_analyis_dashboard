@@ -146,3 +146,9 @@ This project provides critical insights into Blinkit's sales performance, custom
 - **Focusing on High-Rating Items**: Promote products with higher customer ratings to increase sales.
 - **Optimizing Sales in Key Locations**: Use geographic insights to target marketing efforts in high-performing locations.
 - **Outlets Optimization**: Streamline operations in larger outlets to ensure better performance.
+
+## Author
+
+This project was created and maintained by [Pankaj Singh Bisht](https://github.com/pbisht2105).
+
+You can contact me at: [pbisht2105@gmail.com](mailto:pbisht2105@gmail.com).
