@@ -1,6 +1,19 @@
 # Blinkit Sales Performance & Optimization Analysis
 ![Pizza Project cover](https://github.com/pbisht2105/blinkit_sales_analyis_dashboard/blob/main/Blinkit%20sales%20cover%20image.png)
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [What is this project?](#what-is-this-project)
+- [Data Set Used](#data-set-used)
+- [Key Business Problems & KPIs](#key-business-problems--kpis)
+- [Chart Requirements & Objectives](#chart-requirements--objectives)
+- [Process](#process)
+- [Dashboard](#dashboard)
+- [Insights & Recommendations](#insights--recommendations)
+- [Final Conclusion](#final-conclusion)
+
+
 ## Project Overview
 This project focuses on analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The goal is to identify key insights and opportunities for optimization using **Power BI**. By importing CSV files into Power BI, this analysis provides a comprehensive view of Blinkit's sales, item performance, customer ratings, and outlet performance across different KPIs.
 
