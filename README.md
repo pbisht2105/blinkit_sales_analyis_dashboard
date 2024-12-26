@@ -1,4 +1,4 @@
-# Blinkit Sales Performance & Optimization Analysis
+# Blinkit Sales Performance Analysis
 ![Pizza Project cover](https://github.com/pbisht2105/blinkit_sales_analyis_dashboard/blob/main/Blinkit%20sales%20cover%20image.png)
 
 ## Table of Contents
