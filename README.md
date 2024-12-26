@@ -13,7 +13,6 @@
 - [Insights & Recommendations](#insights--recommendations)
 - [Final Conclusion](#final-conclusion)
 
-
 ## Project Overview
 This project focuses on analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The goal is to identify key insights and opportunities for optimization using **Power BI**. By importing data Blinkit Grocery Data file into Power BI, this analysis provides a comprehensive view of Blinkit's sales, item performance, customer ratings, and outlet performance across different KPIs.
 
