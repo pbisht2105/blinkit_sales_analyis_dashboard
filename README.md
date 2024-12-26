@@ -25,7 +25,7 @@ The project aims to conduct an in-depth analysis of Blinkit’s sales data to he
 ---
 
 ## Data Set Used
-The data for this project is sourced from the internal Blinkit sales dataset (CSV file).
+The data for this project is sourced from the internal Blinkit sales dataset [Blinkit Dataset](https://github.com/pbisht2105/blinkit_sales_analyis_dashboard/blob/main/BlinkIT%20Grocery%20Data.xlsx).
 
 - **Dataset Details**: 
   - The dataset includes transaction-level data for all items sold by Blinkit.
