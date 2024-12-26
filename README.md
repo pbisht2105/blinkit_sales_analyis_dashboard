@@ -15,7 +15,7 @@
 
 
 ## Project Overview
-This project focuses on analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The goal is to identify key insights and opportunities for optimization using **Power BI**. By importing CSV files into Power BI, this analysis provides a comprehensive view of Blinkit's sales, item performance, customer ratings, and outlet performance across different KPIs.
+This project focuses on analyzing Blinkit's sales performance, customer satisfaction, and inventory distribution. The goal is to identify key insights and opportunities for optimization using **Power BI**. By importing data Blinkit Grocery Data file into Power BI, this analysis provides a comprehensive view of Blinkit's sales, item performance, customer ratings, and outlet performance across different KPIs.
 
 ---
 
@@ -31,7 +31,7 @@ The data for this project is sourced from the internal Blinkit sales dataset [Bl
   - The dataset includes transaction-level data for all items sold by Blinkit.
   - Key fields include `item_id`, `item_type`, `fat_content`, `total_sales`, `item_quantity`, `customer_rating`, `outlet_id`, `outlet_size`, `outlet_location`, and `outlet_establishment_type`.
 
-The data is imported into **Power BI** from the CSV files, where various KPIs and charts are generated for analysis.
+The data is imported into **Power BI** from the Blinkit Grocery Data file, where various KPIs and charts are generated for analysis.
 
 ---
 
@@ -89,7 +89,7 @@ The data is imported into **Power BI** from the CSV files, where various KPIs an
 ## Process
 
 ### 1. Data Import & Preprocessing in Power BI
-   The raw sales data is imported into Power BI from CSV files. This data includes transactional details like `item_id`, `fat_content`, `item_type`, `total_sales`, and `customer_rating`. The data is cleaned and preprocessed in Power BI to ensure accurate calculations and visualizations.
+   The raw sales data is imported into Power BI from Blinkit Grocery Data file. This data includes transactional details like `item_id`, `fat_content`, `item_type`, `total_sales`, and `customer_rating`. The data is cleaned and preprocessed in Power BI to ensure accurate calculations and visualizations.
 
 ### 2. Data Aggregation & KPI Calculation
    The following key performance indicators (KPIs) are calculated:
